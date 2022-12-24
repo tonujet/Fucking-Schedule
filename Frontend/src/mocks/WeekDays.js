@@ -1,0 +1,39 @@
+export default [
+    {
+        name:"monday",
+        serverName:"MONDAY",
+        uaName:"Понеділок",
+        uaShortName:"Пн"
+    },
+    {
+        name:"tuesday",
+        serverName:"TUESDAY",
+        uaName:"Вівторок",
+        uaShortName:"Вт"
+    },
+    {
+        name:"wednesday",
+        serverName:"WEDNESDAY",
+        uaName:"Середа",
+        uaShortName:"Ср"
+    },
+    {
+        name:"thursday",
+        serverName:"THURSDAY",
+        uaName:"Четвер",
+        uaShortName:"Чт"
+    },
+    {
+        name:"friday",
+        serverName:"FRIDAY",
+        uaName:"П'ятниця",
+        uaShortName:"Пт"
+    },
+    {
+        name:"saturday",
+        serverName:"SATURDAY",
+        uaName:"Субота",
+        uaShortName:"Сб"
+    },
+
+]
